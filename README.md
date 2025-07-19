@@ -1,2 +1,1 @@
-# Fidelis-Nails
-Nail salon
+# Nail-Salon
